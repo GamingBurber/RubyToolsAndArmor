@@ -16,6 +16,7 @@ import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.entity.Entity;
 
 import net.mcreator.rubytools.itemgroup.RubyToolsItemGroup;
+import net.mcreator.rubytools.block.RubyBlockBlock;
 import net.mcreator.rubytools.RubyToolsModElements;
 
 @RubyToolsModElements.ModElement.Tag
@@ -57,7 +58,7 @@ public class RubyArmourSetItem extends RubyToolsModElements.ModElement {
 
 			@Override
 			public Ingredient getRepairMaterial() {
-				return Ingredient.EMPTY;
+				return Ingredient.fromStacks(new ItemStack(RubyBlockBlock.block));
 			}
 
 			@OnlyIn(Dist.CLIENT)

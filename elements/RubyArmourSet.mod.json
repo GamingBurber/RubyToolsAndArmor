@@ -53,6 +53,10 @@
     "equipSound": {
       "value": ""
     },
-    "repairItems": []
+    "repairItems": [
+      {
+        "value": "CUSTOM:RubyBlock"
+      }
+    ]
   }
 }

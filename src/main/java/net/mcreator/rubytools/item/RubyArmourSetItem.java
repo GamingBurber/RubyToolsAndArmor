@@ -37,12 +37,12 @@ public class RubyArmourSetItem extends RubyToolsModElements.ModElement {
 		IArmorMaterial armormaterial = new IArmorMaterial() {
 			@Override
 			public int getDurability(EquipmentSlotType slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 10;
+				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 25;
 			}
 
 			@Override
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{5, 8, 10, 6}[slot.getIndex()];
+				return new int[]{500, 500, 500, 500}[slot.getIndex()];
 			}
 
 			@Override

@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="ruby_tools"
+version="1.0.0"
+displayName="Ruby Tools"
+credits="Made by GamingBurber"
+displayURL="https://mcreator.net"
+authors="GamingBurber"
+description='''
+Some ruby armour, tools and blocks.
+'''
+
+[[dependencies.ruby_tools]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

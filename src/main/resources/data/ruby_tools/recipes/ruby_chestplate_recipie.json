@@ -1,0 +1,39 @@
+{
+  "group": "ruby_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "2": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "3": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "4": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "5": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "6": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "7": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "8": {
+      "item": "ruby_tools:ruby_crystal"
+    }
+  },
+  "result": {
+    "item": "ruby_tools:ruby_armour_set_chestplate",
+    "count": 1
+  }
+}

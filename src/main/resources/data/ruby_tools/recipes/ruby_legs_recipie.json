@@ -1,0 +1,36 @@
+{
+  "group": "ruby_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "1": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "2": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "3": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "5": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "6": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "8": {
+      "item": "ruby_tools:ruby_crystal"
+    }
+  },
+  "result": {
+    "item": "ruby_tools:ruby_armour_set_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RubyArmourSet",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armour_set",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RubyTools",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tools"
+    },
+    {
+      "name": "RubyCrystal",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_crystal",
+      "path": "~/Items.Materials"
+    },
+    {
+      "name": "RubyCrystalOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_crystal_ore",
+      "path": "~/Items.Materials"
+    },
+    {
+      "name": "Ruby",
+      "type": "achievement",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby",
+      "path": "~/Advancements"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword",
+      "path": "~/Tools"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block",
+      "path": "~/Items.Materials"
+    },
+    {
+      "name": "RubyCrystalBlockRecipie",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_crystal_block_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "RubySwordRecipie",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "RubyHandle",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_handle",
+      "path": "~/Items.Materials"
+    },
+    {
+      "name": "RubyHandleRecipie",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_handle_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "RubyHelmetRecipie",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_helmet_recipie",
+      "path": "~/Recipies/Armour"
+    },
+    {
+      "name": "RubyChestplateRecipie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_chestplate_recipie",
+      "path": "~/Recipies/Armour"
+    },
+    {
+      "name": "RubyLegsRecipie",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_legs_recipie",
+      "path": "~/Recipies/Armour"
+    },
+    {
+      "name": "RubyBootsRecipie",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_boots_recipie",
+      "path": "~/Recipies/Armour"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe",
+      "path": "~/Tools"
+    },
+    {
+      "name": "RubyPickaxeRecipie",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe",
+      "path": "~/Tools"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel",
+      "path": "~/Tools"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe",
+      "path": "~/Tools"
+    },
+    {
+      "name": "RubyAxeRecipie",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "RubyShovelRecipie",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "RubyHoeRecipie",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "GotRubyArmour",
+      "type": "achievement",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "got_ruby_armour",
+      "path": "~/Advancements"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.ruby_tools.ruby_crystal_ore": "Ruby Crystal Ore",
+      "advancements.got_ruby_armour.descr": "Made a Ruby Chestplate",
+      "item.ruby_tools.ruby_armour_set_chestplate": "Ruby Chestplate",
+      "item.ruby_tools.ruby_armour_set_leggings": "Ruby Leggings",
+      "advancements.ruby.descr": "Acquired Ruby.",
+      "item.ruby_tools.ruby_hoe": "Ruby Hoe",
+      "block.ruby_tools.ruby_block": "Ruby Block",
+      "item.ruby_tools.ruby_armour_set_helmet": "Ruby Helmet",
+      "itemGroup.tabruby_tools": "Ruby Tools",
+      "item.ruby_tools.ruby_shovel": "Ruby Shovel",
+      "advancements.ruby.title": "Red Crystals",
+      "item.ruby_tools.ruby_handle": "Ruby Handle",
+      "item.ruby_tools.ruby_crystal": "Ruby Crystal",
+      "advancements.got_ruby_armour.title": "A Red Chest",
+      "item.ruby_tools.ruby_axe": "Ruby Axe",
+      "item.ruby_tools.ruby_sword": "Ruby Sword",
+      "item.ruby_tools.ruby_armour_set_boots": "Ruby Boots",
+      "item.ruby_tools.ruby_pickaxe": "Ruby Pickaxe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Items.Materials",
+        "children": []
+      },
+      {
+        "name": "Advancements",
+        "children": []
+      },
+      {
+        "name": "Tools",
+        "children": []
+      },
+      {
+        "name": "Recipies",
+        "children": [
+          {
+            "name": "Armour",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "ruby_tools",
+    "modName": "Ruby Tools",
+    "version": "1.0.0",
+    "description": "Some ruby armour, tools and blocks.",
+    "author": "GamingBurber",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Made by GamingBurber",
+    "modElementsPackage": "net.mcreator.rubytools",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

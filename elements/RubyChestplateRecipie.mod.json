@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RubyCrystal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RubyCrystal"
+      },
+      {
+        "value": "CUSTOM:RubyCrystal"
+      },
+      {
+        "value": "CUSTOM:RubyCrystal"
+      },
+      {
+        "value": "CUSTOM:RubyCrystal"
+      },
+      {
+        "value": "CUSTOM:RubyCrystal"
+      },
+      {
+        "value": "CUSTOM:RubyCrystal"
+      },
+      {
+        "value": "CUSTOM:RubyCrystal"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RubyArmourSet.body"
+    },
+    "name": "ruby_chestplate_recipie",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "block.ruby_tools.ruby_crystal_ore": "Ruby Crystal Ore",
+  "advancements.got_ruby_armour.descr": "Made a Ruby Chestplate",
+  "item.ruby_tools.ruby_armour_set_chestplate": "Ruby Chestplate",
+  "item.ruby_tools.ruby_armour_set_leggings": "Ruby Leggings",
+  "advancements.ruby.descr": "Acquired Ruby.",
+  "item.ruby_tools.ruby_hoe": "Ruby Hoe",
+  "block.ruby_tools.ruby_block": "Ruby Block",
+  "item.ruby_tools.ruby_armour_set_helmet": "Ruby Helmet",
+  "itemGroup.tabruby_tools": "Ruby Tools",
+  "item.ruby_tools.ruby_shovel": "Ruby Shovel",
+  "advancements.ruby.title": "Red Crystals",
+  "item.ruby_tools.ruby_handle": "Ruby Handle",
+  "item.ruby_tools.ruby_crystal": "Ruby Crystal",
+  "advancements.got_ruby_armour.title": "A Red Chest",
+  "item.ruby_tools.ruby_axe": "Ruby Axe",
+  "item.ruby_tools.ruby_sword": "Ruby Sword",
+  "item.ruby_tools.ruby_armour_set_boots": "Ruby Boots",
+  "item.ruby_tools.ruby_pickaxe": "Ruby Pickaxe"
+}

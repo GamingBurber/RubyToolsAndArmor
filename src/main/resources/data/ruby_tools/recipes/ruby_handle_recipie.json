@@ -1,0 +1,20 @@
+{
+  "group": "ruby_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "ruby_tools:ruby_crystal"
+    },
+    "1": {
+      "item": "ruby_tools:ruby_crystal"
+    }
+  },
+  "result": {
+    "item": "ruby_tools:ruby_handle",
+    "count": 1
+  }
+}
